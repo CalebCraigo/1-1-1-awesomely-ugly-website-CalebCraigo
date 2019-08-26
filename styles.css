@@ -1,3 +1,6 @@
 background {
   color: brown;
 }
+p {
+  border: solid green;
+}
