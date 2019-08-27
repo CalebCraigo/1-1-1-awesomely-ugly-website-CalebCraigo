@@ -1,6 +1,27 @@
-background {
-  color: brown;
+body {
+  background-color: orange;
+  text-align: center;
 }
-p {
-  border: solid green;
+.buscemi {
+  border: solid black;
+}
+h1 {
+  color: green;
+}
+.paragraph {
+  border: solid blue
+}
+blockquote {
+  background-color: red;
+  border: solid yellow;
+  padding: 5px 5px;
+}
+footer {
+  color: blue;
+}
+img {
+  border: solid pink;
+}
+input {
+  color: green;
 }
