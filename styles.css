@@ -2,9 +2,6 @@ body {
   background-color: orange;
   text-align: center;
 }
-.buscemi {
-  border: solid black;
-}
 h1 {
   color: green;
 }
@@ -24,4 +21,7 @@ img {
 }
 input {
   color: green;
+}
+.banner {
+  border-color: black;
 }
